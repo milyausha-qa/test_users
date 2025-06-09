@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/menu.png)
+![image](https://raw.githubusercontent.com/milyausha-qa/test_users/refs/heads/main/menu.png)
 
 После выбора количества пользователей:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/generate.png)
+![image](https://raw.githubusercontent.com/milyausha-qa/test_users/refs/heads/main/generate.png)
 
 ## 💻 Технологии
 
