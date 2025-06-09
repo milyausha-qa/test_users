@@ -6,7 +6,7 @@ from faker import Faker
 from telebot import TeleBot, types
 
 # TODO: вставить свой токен
-TOKEN = '8101030665:AAE8iQPZuUHpn0bTU0LLxAXybE1EIHRv_9A'
+TOKEN = 'Вставить токен'
 bot = TeleBot(TOKEN, parse_mode='html')
 # библиотека для генерации тестовых ФИО
 # указываем язык - русский
